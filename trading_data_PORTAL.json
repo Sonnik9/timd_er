@@ -1,0 +1,102 @@
+[
+    {
+        "symbol": "PORTALFDUSD",
+        "orderId": 51,
+        "orderListId": -1,
+        "clientOrderId": "QsCA5anyHWoyiJSx4bqDpd",
+        "transactTime": 1709200801266,
+        "price": "0.00000000",
+        "origQty": "8004.00000000",
+        "executedQty": "0.00000000",
+        "cummulativeQuoteQty": "0.00000000",
+        "status": "EXPIRED",
+        "timeInForce": "GTC",
+        "type": "MARKET",
+        "side": "BUY",
+        "workingTime": 1709200801266,
+        "fills": [],
+        "selfTradePreventionMode": "EXPIRE_MAKER"
+    },
+    {
+        "symbol": "PORTALFDUSD",
+        "orderId": 388,
+        "orderListId": -1,
+        "clientOrderId": "2A86ocK9ZHwxRimMfFpyCa",
+        "transactTime": 1709200803604,
+        "price": "0.00000000",
+        "origQty": "100.20000000",
+        "executedQty": "100.20000000",
+        "cummulativeQuoteQty": "395.28900000",
+        "status": "FILLED",
+        "timeInForce": "GTC",
+        "type": "MARKET",
+        "side": "BUY",
+        "workingTime": 1709200803604,
+        "fills": [
+            {
+                "price": "3.94500000",
+                "qty": "100.20000000",
+                "commission": "0.10020000",
+                "commissionAsset": "PORTAL",
+                "tradeId": 117
+            }
+        ],
+        "selfTradePreventionMode": "EXPIRE_MAKER"
+    },
+    {
+        "symbol": "PORTALFDUSD",
+        "orderId": 1830,
+        "orderListId": -1,
+        "clientOrderId": "Gi3l5Sd9Aos4CD846qd1xP",
+        "transactTime": 1709200806243,
+        "price": "6.51500000",
+        "origQty": "50.10000000",
+        "executedQty": "0.00000000",
+        "cummulativeQuoteQty": "0.00000000",
+        "status": "NEW",
+        "timeInForce": "GTC",
+        "type": "LIMIT",
+        "side": "SELL",
+        "workingTime": 1709200806243,
+        "fills": [],
+        "selfTradePreventionMode": "EXPIRE_MAKER"
+    },
+    {
+        "symbol": "PORTALFDUSD",
+        "orderId": 1934,
+        "orderListId": -1,
+        "clientOrderId": "fEhdy3MF5okyGUVWtDNmYa",
+        "transactTime": 1709200806628,
+        "price": "9.68000000",
+        "origQty": "50.10000000",
+        "executedQty": "0.00000000",
+        "cummulativeQuoteQty": "0.00000000",
+        "status": "NEW",
+        "timeInForce": "GTC",
+        "type": "LIMIT",
+        "side": "SELL",
+        "workingTime": 1709200806628,
+        "fills": [],
+        "selfTradePreventionMode": "EXPIRE_MAKER"
+    },
+    {
+        "code": -2011,
+        "msg": "Unknown order sent."
+    },
+    {
+        "code": -2011,
+        "msg": "Unknown order sent."
+    },
+    {
+        "code": -2010,
+        "msg": "Account has insufficient balance for requested action."
+    },
+    {
+        "code": -2010,
+        "msg": "Account has insufficient balance for requested action."
+    },
+    {
+        "code": -2010,
+        "msg": "Account has insufficient balance for requested action."
+    }
+]
